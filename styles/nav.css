@@ -1,0 +1,12 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 5px;
+    padding: 7px 13px;
+}
+li a{
+    text-decoration: none;
+}
+nav li:hover{
+    background-color: blanchedalmond;
+}
